@@ -14,8 +14,8 @@ import java.util.List;
 @Getter
 @Setter
 @Builder
-@NoArgsConstructor
 @AllArgsConstructor
+@NoArgsConstructor
 public class User {
     private static final long serialVersionUID = 7614019218872703375L;
 

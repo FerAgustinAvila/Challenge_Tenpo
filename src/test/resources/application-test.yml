@@ -1,0 +1,7 @@
+# Details for our datasource
+
+spring:
+  datasource:
+    password: root
+    username: postgres
+    url: jdbc:postgresql://localhost:5432/tenpo
